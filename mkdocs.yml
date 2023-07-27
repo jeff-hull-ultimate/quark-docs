@@ -1,4 +1,4 @@
 site_name: Quark Docs
-docs_dir: docs
+docs_dir: .
 plugins:
   - techdocs-core
